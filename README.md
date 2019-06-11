@@ -4,5 +4,5 @@ some description
 
 add some things todo
 
-- [] create login screen
-- [] add password reset function
+- [ ] create login screen
+- [ ] add password reset function
